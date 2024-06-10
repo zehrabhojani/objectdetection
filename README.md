@@ -1,7 +1,3 @@
-# Here is a detailed README file for an object detection project using the YOLOv3 model:
-
----
-
 # Object Detection using YOLOv3
 
 ## Overview
